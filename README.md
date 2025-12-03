@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Kesha 👋
 
-<!--
-**keshavadim/keshavadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+- 🔧 Developer & Crypto Enthusiast  
+- 🚀 Building the future with code  
+- 📡 Telegram: https://t.me/cryptokesha  
+- 🐦 Twitter: @vadim_kesha1
 
-Here are some ideas to get you started:
+### ⚡ Tech Stack
+- Python, JS, Node.js  
+- Web3, Solidity  
+- Docker, Linux  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=keshavadim&show_icons=true&theme=radical)
+
+### 📂 My Projects
+- 🔥 Interesting tools  
+- 📡 Crypto bot  
+- ⚙️ Scripts for automation  
+
+
